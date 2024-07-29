@@ -61,6 +61,10 @@ Here's how the magic happens:
 
 If things go wonky:
 - Check all your settings (twice! ✅✅)
+
+Uploading ExternalColab-nabEntraB2B.mp4…
+
+
 - Verify licenses (no freeloaders allowed 🚫)
 - Review those Conditional Access Policies (they can be sneaky 🕵️‍♂️)
 
