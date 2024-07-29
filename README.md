@@ -74,4 +74,16 @@ Uploading ExternalColab-nabEntraB2B.mp4…
 - [SharePoint external sharing](https://learn.microsoft.com/en-us/sharepoint/external-sharing-overview)
 - [B2B Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/conditional-access)
 
+📋 Implementation Steps
+Step 1: This is step 1
+[Insert screenshot here]
+Step 2: This is step 2
+[Insert screenshot here]
+Step 3: This is step 3
+[Insert screenshot here]
+Step 4: This is step 4
+[Insert screenshot here]
+Step 5: This is step 5
+[Insert screenshot here]
+
 Happy sharing! 🎊
